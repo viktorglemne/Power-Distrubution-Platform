@@ -1,0 +1,143 @@
+body {
+    background-color: #F2F2F0;
+}
+
+a {
+    color: black;
+}
+
+.form {
+    max-width: 45rem;
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.2);
+    border: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+
+.container img {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 10%;
+    object-fit: cover;
+    object-position: 0% 10%;
+}
+
+
+.button-reg {
+    width: 40%;
+    padding: 10px;
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.2);
+    margin-right: 20px;
+    border-radius: 15px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #004099;
+    color: white;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
+
+.button-reg:hover {
+    background: #004099ef;
+    transform: scale(1.01);
+    font-size: 1.1rem;
+}
+
+.button-create {
+    width: 40%;
+    padding: 10px;
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.2);
+    margin-right: 20px;
+    border-radius: 15px;
+    border: none;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #41BF78;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
+
+.button-create a {
+    color: white;
+    text-decoration: none;
+}
+
+.button-create:hover {
+    background: #41BF78ef;
+    transform: scale(1.01);
+    font-size: 1.1rem;
+}
+
+.button-delete {
+    width: 40%;
+    padding: 10px;
+    box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.2);
+    margin-right: 20px;
+    border-radius: 15px;
+    border: none;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background: #991E0F;
+    color: white;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
+
+.button-delete:hover {
+    background: #991E0Fea;
+    font-size: 1.11rem;
+}
+
+#button-upload {
+    padding: 10px;
+    font-size: 0.8rem;
+}
+
+#button-upload:hover {
+    font-size: 0.82rem;
+}
+
+.button-table {
+    all:unset;
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+.input-table {
+    width: 20%;
+    box-shadow: none;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+}
+
+input[type="file"] {
+    display: none;
+}

@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+* {    
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    padding: 0;
+    margin: 0;
+    margin-top: 6rem;
+    z-index: 1; 
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    border: 1px solid #00265C;
+    text-align: left;
+    padding: 10px;
+}
+
+nav {
+    top: 0;
+    display: flex;
+    justify-content: flex-start;
+    position: fixed;
+    z-index: 2;
+    align-items: center;
+    width: 100%;
+    height: 5rem;
+    background-color: #00265C;
+}
+
+.first-StyleContainer {
+    font-size: 3.5rem;
+    cursor: pointer;
+    margin-left: 50px;
+}
+
+.first-StyleContainer a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.second-StyleContainer {
+    margin-left: 30px;
+    height: auto;
+    width: auto;
+}
+
+.second-StyleContainer a {
+    font-size: 1.4rem;
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: normal;
+    margin: 10px;
+}
+
+.third-StyleContainer {
+    position: absolute;
+    font-size: 1.4rem;
+    margin-left: auto;
+    margin-right: 100px;
+    height: auto;
+    width: auto;
+}
+
+.third-StyleContainer a {
+    margin: 10px;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.loginLogo {
+    width: 1.6rem;
+    cursor: pointer;
+    filter: invert(31%) sepia(7%) saturate(0%) hue-rotate(134deg) brightness(98%) contrast(76%);
+}
+
+.profile-dropdown-button {
+    background-color: transparent;
+    color: whitesmoke;
+    padding: 16px;
+    font-size: 1.4rem;
+    border: none;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.third-StyleContainer {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-links {
+    display: none;
+    position: absolute;
+    background-color: whitesmoke;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 0;
+}
+
+.dropdown-links a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-links a:hover {
+    background-color: white;
+}
+
+.third-StyleContainer:hover .dropdown-links {
+    display: block;
+}
+
+.third-StyleContainer:hover .rofile-dropdown-button {
+    background-color: transparent;
+}
+
+.navbarpic {
+    /* width: 100%; */
+    max-width: 40px;
+    height: auto; 
+    transform: translate(-150%, 0%);
+    border-radius: 100%;
+    
+}
+
+.logopic {
+    /* width: 100%; */
+    max-width: 100px;
+    height: auto; 
+    transform: translate(-30%, 0%);
+    border-radius: 100%;
+    
+}

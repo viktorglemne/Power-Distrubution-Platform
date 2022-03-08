@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  <link rel="canonical" href="https://example.com/deployment/">
+  <link rel="shortcut icon" href="../img/favicon.ico">
+  <title>Deployment - Power-Distrubution</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../css/theme.css" />
+  <link rel="stylesheet" href="../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Deployment";
+    var mkdocs_page_input_path = "deployment.md";
+    var mkdocs_page_url = "/deployment/";
+  </script>
+  
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href=".." class="icon icon-home"> Power-Distrubution</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../about/">About</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../api-docs/">API Design</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="" href="https://app.swaggerhub.com/apis-docs/m7011e/m7011e/1.0.0">API Interfaces</a>
+                    </li>
+                </ul>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Deployment</a>
+    <ul class="current">
+    </ul>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="..">Power-Distrubution</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="..">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>Deployment</li>
+    <li class="wy-breadcrumbs-aside">
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+
+          <div role="main">
+            <div class="section">
+              
+                <h2 id="versions">Versions</h2>
+<p>The different versions have been collected as milestones for what we have reached during the development process. A full list of every commit can be seen on <a href="https://github.com/JunkZ/M7011E-DynamicPage/commits/master">github</a> or the <a href="../gitlog.txt">commit log</a></p>
+<table>
+<thead>
+<tr>
+<th>Version</th>
+<th>Date</th>
+<th>Function</th>
+<th>Comment</th>
+<th>approximate time (hours)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>1.2</code></td>
+<td>January 11 2022</td>
+<td>Additional security, docs and general fixes</td>
+<td>Encrypted token check on simulator updates. More work on documentation and general fixes mosty based on the new file structure</td>
+<td>6</td>
+</tr>
+<tr>
+<td><code>1.1</code></td>
+<td>January 5 2022</td>
+<td>Docs, API, security &amp; directory update</td>
+<td>Initial documentation. API interface for retriving user-specific data not just general data. Use of encrypted passwords to access user data. Overhaul of file structure.</td>
+<td>14</td>
+</tr>
+<tr>
+<td><code>1.0</code></td>
+<td>December 27 2021</td>
+<td>Readme, QOL fixes</td>
+<td>Feature complete. Initial README. Small QOL fixes include changing only password, more information on userpage &amp; second ratio for market buying</td>
+<td>8</td>
+</tr>
+<tr>
+<td><code>0.9</code></td>
+<td>December 14 2021</td>
+<td>Price logic, coal plant and more charts</td>
+<td>More charts to display user consumtion/production relative to entire userbase. Price now based on avaible buffer and wind speed. Seperate coal powerplant for admins to manipulate.</td>
+<td>13</td>
+</tr>
+<tr>
+<td><code>0.8</code></td>
+<td>December 6 2021</td>
+<td>Data charts</td>
+<td>Pretty charts to display buffer/price and wind history charts</td>
+<td>7</td>
+</tr>
+<tr>
+<td><code>0.7</code></td>
+<td>November 29 2021</td>
+<td>Blocking feature and expanded design</td>
+<td>Added a blocking users feature to admins to lock users from the market and site. Userlist showing whos online, and other small design changes</td>
+<td>8</td>
+</tr>
+<tr>
+<td><code>0.6</code></td>
+<td>November 23 2021</td>
+<td>Admin page, profile pictures &amp; settings, GET interface</td>
+<td>The addition of an admin only page with the power to edit and delete users. The ability to upload and display a profile picture. A user settings page and drop-down menu for the navbar. The first access point to the service, returning json formated data of total buffer size and current price</td>
+<td>16</td>
+</tr>
+<tr>
+<td><code>0.5</code></td>
+<td>November 18 2021</td>
+<td>Simulator and post interface</td>
+<td>Simulator for random wind speeds and regular buffer and price updates was added. Also several fixes regarding user profiles</td>
+<td>10</td>
+</tr>
+<tr>
+<td><code>0.4.1</code></td>
+<td>November 15 2021</td>
+<td>Expanded userpage</td>
+<td>Expanded the design of userpage with tables and more information like user buffer size and ratios</td>
+<td>6</td>
+</tr>
+<tr>
+<td><code>0.4</code></td>
+<td>November 12 2021</td>
+<td>Userpage</td>
+<td>Implemented a userpage displaying basic data about production and consumption</td>
+<td>8</td>
+</tr>
+<tr>
+<td><code>0.3</code></td>
+<td>November 11 2021</td>
+<td>Navbar, sessions &amp; consumption</td>
+<td>Initial navbar implemented. User sessions across site vists enabled and start of keeping track/changing users consumption</td>
+<td>14</td>
+</tr>
+<tr>
+<td><code>0.2</code></td>
+<td>November 8 2021</td>
+<td>Wind speed API</td>
+<td>Enabled retriving windspeed from external API (Vindkraftsstatisik) and expanded login page. Wind api was replaced (but still functional) in favor of simulating random values</td>
+<td>7</td>
+</tr>
+<tr>
+<td><code>0.1.1</code></td>
+<td>November 5 2021</td>
+<td>Login &amp; admin</td>
+<td>Initial database communication logic. Expanded db schema with login feature and admin flags. Initial login page</td>
+<td>6</td>
+</tr>
+<tr>
+<td><code>0.1</code></td>
+<td>November 4 2021</td>
+<td>Web Design &amp; DB</td>
+<td>First concrete development. Initial DB setup, index and basic design</td>
+<td>8</td>
+</tr>
+<tr>
+<td><code>0.0</code></td>
+<td>&lt; November 4 2021</td>
+<td>Design decisions</td>
+<td>Theoritcal design and development decisions. Choice of system structure and tools to be used</td>
+<td>10</td>
+</tr>
+</tbody>
+</table>
+<p>In the development of the system and API we have committed 127 different updates in ~140 working hours.</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="../api-docs/" class="btn btn-neutral" title="API Design"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../api-docs/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+  </span>
+</div>
+    <script>var base_url = '..';</script>
+    <script src="../js/theme_extra.js" defer></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

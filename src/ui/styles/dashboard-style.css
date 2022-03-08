@@ -1,0 +1,48 @@
+body {
+    background-color: #ebeff1;
+}
+
+.parent-container {
+    display: flex;
+    flex-wrap: wrap;
+    z-index: 1;
+}
+
+.break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.item {
+    background-color: white;
+    flex-grow: 1;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0px 8px 16px 0px rgb(45, 47, 49, 0.2);
+    border-radius: 30px;
+    width: 0;
+}
+
+
+.item:hover {
+    box-shadow: 0px 40px 60px 0px rgb(45, 47, 49, 0.2);
+}
+
+.child {
+    display: flex;
+    flex-wrap: wrap;
+    z-index: 1;
+}
+.child-item {
+    background-color: white;
+    flex-grow: 1;
+    width: 0;
+}
+
+.header {
+    text-align: center;
+}
+
+.wind_curve_chart, .price_curve_chart, .power_chart_div {
+    z-index: 1;
+}

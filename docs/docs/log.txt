@@ -1,0 +1,129 @@
+| 858d9de | 2022-01-12T08:07:56+01:00 | deploy fix + new log                                                                                 | klaman-8        |
+| 7ad7028 | 2022-01-12T08:02:18+01:00 | deployment docs                                                                                      | klaman-8        |
+| ca0fd5d | 2022-01-11T11:14:20+01:00 | design & img fix                                                                                     | JunkZ           |
+| aedff98 | 2022-01-11T11:03:44+01:00 | design                                                                                               | JunkZ           |
+| 4690b7c | 2022-01-10T14:16:09+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | JunkZ           |
+| 8af1354 | 2022-01-10T14:15:54+01:00 | auth for dev                                                                                         | JunkZ           |
+| 6638496 | 2022-01-10T14:06:23+01:00 | update readme with new doc                                                                           | Klas Mannberg   |
+| 57801ed | 2022-01-10T05:50:33+01:00 | swagger and build                                                                                    | JunkZ           |
+| b8de4b3 | 2022-01-07T09:34:29+01:00 | more path fixes 2                                                                                    | JunkZ           |
+| e576104 | 2022-01-07T08:23:44+01:00 | more dir fixes                                                                                       | JunkZ           |
+| f45e955 | 2022-01-05T11:35:51+01:00 | upload path fix                                                                                      | JunkZ           |
+| 992860e | 2022-01-05T11:32:50+01:00 | edit path fix                                                                                        | JunkZ           |
+| 85f5c4d | 2022-01-05T11:29:38+01:00 | delete fix                                                                                           | JunkZ           |
+| 427137c | 2022-01-05T10:57:49+01:00 | Mkdocs site are more in progress.                                                                    | Viktor          |
+| 8c22d1e | 2022-01-05T10:51:49+01:00 | Delete .DS_Store                                                                                     | Viktor Glemne   |
+| 70c1267 | 2022-01-05T10:00:43+01:00 | new path                                                                                             | Klas Mannberg   |
+| 353bef3 | 2022-01-05T09:59:42+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | JunkZ           |
+| 0c7685d | 2022-01-05T09:59:27+01:00 | directory overhaul warning! - invalid paths might exist                                              | JunkZ           |
+| a0c7019 | 2022-01-04T11:32:50+01:00 | "delete mkdocs site"                                                                                 | Viktor          |
+| 905495a | 2022-01-03T17:58:44+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | JunkZ           |
+| ef6682f | 2022-01-03T17:58:29+01:00 | docs + newapi + misc                                                                                 | JunkZ           |
+| f02a6d4 | 2022-01-03T17:49:37+01:00 | Update README.md                                                                                     | Viktor Glemne   |
+| ed4937d | 2022-01-03T17:48:13+01:00 | Update README.md                                                                                     | Viktor Glemne   |
+| 42892e1 | 2022-01-03T17:46:12+01:00 | update readme                                                                                        | Viktor          |
+| beacb6b | 2022-01-03T15:31:28+01:00 | Update README.md                                                                                     | Klas Mannberg   |
+| c7f1e0f | 2022-01-03T15:02:15+01:00 | readme update                                                                                        | Viktor          |
+| b47921f | 2022-01-03T14:49:09+01:00 | Mkdocs                                                                                               | Viktor          |
+| 695a5cd | 2021-12-27T11:25:57+01:00 | readme                                                                                               | Viktor          |
+| 28177a0 | 2021-12-27T11:14:41+01:00 | readme                                                                                               | Viktor          |
+| 2a27548 | 2021-12-27T11:12:44+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | Viktor          |
+| f7727c5 | 2021-12-27T11:12:25+01:00 | readme file                                                                                          | Viktor          |
+| 6c18d48 | 2021-12-27T11:12:10+01:00 | readme file                                                                                          | Viktor          |
+| 7ec3ae2 | 2021-12-16T09:17:12+01:00 | small fixes                                                                                          | JunkZ           |
+| ba7ac47 | 2021-12-14T12:30:51+01:00 | Sim                                                                                                  | JunkZ           |
+| beeefa0 | 2021-12-14T12:30:43+01:00 | merge and more                                                                                       | JunkZ           |
+| 5313d86 | 2021-12-14T11:46:41+01:00 | updates                                                                                              | JunkZ           |
+| a656544 | 2021-12-14T11:46:24+01:00 | dashboard change                                                                                     | Viktor          |
+| 94d417c | 2021-12-14T11:14:55+01:00 | Style charts                                                                                         | Viktor          |
+| 1fd666b | 2021-12-14T11:12:40+01:00 | remove ghost                                                                                         | JunkZ           |
+| 9fd5820 | 2021-12-14T11:03:30+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | JunkZ           |
+| d451ae5 | 2021-12-14T11:01:58+01:00 | size cahrt                                                                                           | Viktor          |
+| d0afe7a | 2021-12-14T11:00:43+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | JunkZ           |
+| dfb351f | 2021-12-14T10:44:03+01:00 | index                                                                                                | JunkZ           |
+| a170772 | 2021-12-14T10:43:35+01:00 | things                                                                                               | JunkZ           |
+| a7ef6b3 | 2021-12-14T10:40:20+01:00 | double pieChart                                                                                      | Viktor          |
+| d86edec | 2021-12-14T10:16:30+01:00 | dashboard style                                                                                      | Viktor          |
+| 582aaa9 | 2021-12-07T09:15:44+01:00 | delete test                                                                                          | Viktor          |
+| 2eced33 | 2021-12-07T09:14:35+01:00 | new index.php                                                                                        | Viktor          |
+| 7556986 | 2021-12-07T09:14:05+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | Viktor          |
+| f3fdb6d | 2021-12-07T09:13:53+01:00 | delete Index file with I                                                                             | Viktor          |
+| 5acfea1 | 2021-12-07T09:11:08+01:00 | design + on/off check                                                                                | JunkZ           |
+| 566894c | 2021-12-07T08:30:18+01:00 | price update wind and consumption affect price                                                       | JunkZ           |
+| 4d44a6a | 2021-12-07T08:04:31+01:00 | simple powerplant status                                                                             | JunkZ           |
+| 7e308cd | 2021-12-07T05:23:02+01:00 | first price formula not good enough                                                                  | JunkZ           |
+| 268d530 | 2021-12-07T03:54:31+01:00 | small                                                                                                | JunkZ           |
+| 1719c0a | 2021-12-06T13:49:27+01:00 | user charts                                                                                          | Viktor          |
+| fab0063 | 2021-12-06T13:39:58+01:00 | chart and page style                                                                                 | Viktor          |
+| 0c6b2c5 | 2021-12-06T13:39:35+01:00 | Chart and page style                                                                                 | Viktor          |
+| 3c7854c | 2021-12-03T18:59:19+01:00 | position index                                                                                       | Viktor          |
+| 77954ac | 2021-12-03T18:36:34+01:00 | postion elemnet (z-index)                                                                            | Viktor          |
+| 4ac634f | 2021-12-03T14:39:14+01:00 | index page style                                                                                     | Viktor          |
+| 672f524 | 2021-12-02T15:51:47+01:00 | charts changes                                                                                       | Viktor          |
+| 16c6dbe | 2021-11-30T13:47:06+01:00 | button style                                                                                         | Viktor          |
+| 3545168 | 2021-11-29T17:45:47+01:00 | blocking                                                                                             | JunkZ           |
+| f1b9176 | 2021-11-29T16:58:17+01:00 | new admin stuff                                                                                      | JunkZ           |
+| 649fe5b | 2021-11-29T15:41:56+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | JunkZ           |
+| b9f75b7 | 2021-11-29T15:41:06+01:00 | stuff                                                                                                | JunkZ           |
+| fb7f937 | 2021-11-29T15:24:00+01:00 | admin form style                                                                                     | Viktor          |
+| 38b122d | 2021-11-29T15:09:26+01:00 | navbar change                                                                                        | Viktor          |
+| 45655a3 | 2021-11-26T16:00:44+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | JunkZ           |
+| 6ceb847 | 2021-11-26T15:59:14+01:00 | windavg + updateproduction                                                                           | JunkZ           |
+| e5dc1fc | 2021-11-26T15:20:04+01:00 | settings save                                                                                        | Viktor          |
+| 4ed7733 | 2021-11-23T16:34:57+01:00 | update register                                                                                      | Viktor          |
+| 23b7623 | 2021-11-23T16:27:50+01:00 | fix                                                                                                  | JunkZ           |
+| 33848e0 | 2021-11-23T15:36:58+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | JunkZ           |
+| 2b136e1 | 2021-11-23T15:35:56+01:00 | json data and graph                                                                                  | JunkZ           |
+| 37c6c25 | 2021-11-23T15:07:45+01:00 | Stylings                                                                                             | Viktor          |
+| 2fe6f80 | 2021-11-23T12:10:11+01:00 | settings, login & register styling                                                                   | Viktor          |
+| 86b8713 | 2021-11-22T21:36:03+01:00 | Settings and fixes +seperated and combined settings +fix session check before start in most files    | JunkZ           |
+| 256dcbd | 2021-11-19T14:51:23+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | Viktor          |
+| 4fc9fd1 | 2021-11-19T14:51:09+01:00 | Dropdown-menu & fonts                                                                                | Viktor          |
+| 62d7119 | 2021-11-19T14:35:49+01:00 | sql fix 2                                                                                            | JunkZ           |
+| 55aac47 | 2021-11-19T14:33:22+01:00 | sql fix                                                                                              | JunkZ           |
+| dfa4b82 | 2021-11-19T14:29:13+01:00 | sql update                                                                                           | JunkZ           |
+| 1d6431b | 2021-11-18T15:40:36+01:00 | profile pictures                                                                                     | JunkZ           |
+| e2f392e | 2021-11-18T15:40:25+01:00 | profile pictures                                                                                     | JunkZ           |
+| 94df95f | 2021-11-18T14:35:06+01:00 | fix                                                                                                  | JunkZ           |
+| 03e625c | 2021-11-18T14:21:48+01:00 | fix                                                                                                  | JunkZ           |
+| 465838e | 2021-11-18T14:05:31+01:00 | sim additions                                                                                        | JunkZ           |
+| 8ad1aa8 | 2021-11-16T03:07:11+01:00 | Admin and more                                                                                       | JunkZ           |
+| d1d70ac | 2021-11-16T03:06:23+01:00 | Admin and more                                                                                       | JunkZ           |
+| 6fc126d | 2021-11-15T15:52:21+01:00 | buffer get                                                                                           | JunkZ           |
+| 2b2380e | 2021-11-15T14:45:04+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | JunkZ           |
+| 0855e0b | 2021-11-15T14:44:15+01:00 | commit                                                                                               | JunkZ           |
+| ee14ded | 2021-11-15T14:43:28+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | Viktor          |
+| a4ce3ac | 2021-11-15T14:39:52+01:00 | Table of data, admin and prosumer                                                                    | Viktor          |
+| 4d60613 | 2021-11-15T13:40:37+01:00 | was missing                                                                                          | JunkZ           |
+| 4a1ff31 | 2021-11-15T13:40:20+01:00 | new index + others                                                                                   | JunkZ           |
+| bb35ad3 | 2021-11-12T16:07:31+01:00 | pages                                                                                                | JunkZ           |
+| 2de224a | 2021-11-12T16:00:27+01:00 | login/logout and restructure                                                                         | JunkZ           |
+| 85e41af | 2021-11-12T13:10:32+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | Viktor          |
+| 6632197 | 2021-11-12T10:06:29+01:00 | styling login                                                                                        | Viktor          |
+| 818d173 | 2021-11-11T16:39:00+01:00 | register                                                                                             | JunkZ           |
+| 3754754 | 2021-11-11T16:25:21+01:00 | initial register                                                                                     | klaman-8        |
+| 842c884 | 2021-11-11T14:21:23+01:00 | redundant button                                                                                     | JunkZ           |
+| 4734565 | 2021-11-11T14:19:14+01:00 | index merged                                                                                         | JunkZ           |
+| f4df320 | 2021-11-11T14:06:13+01:00 | index                                                                                                | JunkZ           |
+| 82c7166 | 2021-11-11T14:03:25+01:00 | Merge branch 'master' of https://github.com/JunkZ/M7011E-DynamicPage                                 | Viktor          |
+| 136c40a | 2021-11-11T13:52:17+01:00 | Navbar design                                                                                        | Viktor          |
+| 2c27c98 | 2021-11-11T13:45:15+01:00 | login & db fix                                                                                       | JunkZ           |
+| f5f87de | 2021-11-11T13:44:26+01:00 | config fix                                                                                           | JunkZ           |
+| 5f1f42d | 2021-11-11T13:15:18+01:00 | txt files & update consumption                                                                       | JunkZ           |
+| 460133b | 2021-11-11T09:59:02+01:00 | consumption                                                                                          | JunkZ           |
+| d045830 | 2021-11-08T18:04:47+01:00 | login fix                                                                                            | JunkZ           |
+| 77a9a3c | 2021-11-08T17:47:37+01:00 | removed unused images                                                                                | klaman-8        |
+| 3d66fdf | 2021-11-08T17:47:14+01:00 | removed unused images                                                                                | klaman-8        |
+| b8cc3d2 | 2021-11-08T17:40:43+01:00 | fix                                                                                                  | JunkZ           |
+| 8640bb3 | 2021-11-08T11:26:03+01:00 | head fix                                                                                             | JunkZ           |
+| 96ce27e | 2021-11-08T11:25:28+01:00 | wind speed                                                                                           | JunkZ           |
+| 83d4443 | 2021-11-08T10:02:04+01:00 | wind api                                                                                             | JunkZ           |
+| 62b01ba | 2021-11-05T10:23:13+01:00 | basic admin                                                                                          | klaman-8        |
+| b25d9f0 | 2021-11-05T06:11:47+01:00 | login logic                                                                                          | klaman-8        |
+| 288e760 | 2021-11-04T12:05:20+01:00 | first                                                                                                | Viktor          |
+| 75a07b4 | 2021-11-04T11:50:48+01:00 | removed                                                                                              | JunkZ           |
+| 3c0e593 | 2021-11-04T11:28:10+01:00 | db                                                                                                   | JunkZ           |
+| 744e484 | 2021-11-04T11:25:36+01:00 | remove react                                                                                         | JunkZ           |
+| ca34bcc | 2021-11-04T11:15:18+01:00 | index                                                                                                | JunkZ           |
+| 86e691a | 2021-11-04T11:09:48+01:00 | Changing to php                                                                                      | JunkZ           |
+| 05feb18 | 2021-11-04T09:07:31+01:00 | Initial commit                                                                                       | JunkZ           |

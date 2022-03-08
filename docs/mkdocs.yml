@@ -1,0 +1,11 @@
+site_name: Power-Distrubution
+site_url: https://example.com/
+nav: 
+    - Home: index.md
+    - About: about.md
+    - API Design: api-docs.md
+    - API Interfaces: https://app.swaggerhub.com/apis-docs/m7011e/m7011e/1.0.0
+    - Deployment: deployment.md
+theme: 
+    name: readthedocs
+    highlightjs: true
